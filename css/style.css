@@ -1,0 +1,38 @@
+
+.background {
+
+    background-color: #808080;
+    width: 600px;
+    height: 1000px;
+    
+}
+
+h1 {
+    color:rgb(255, 255, 255);
+    margin-left: 50px;
+}
+
+.box1 {
+    width:200px;
+    height: 200px;
+    background-color: #fea500;
+    margin-left: 50px;
+}
+.box2 {
+    width:200px;
+    height: 200px;
+    background-color: #fea500;
+    margin-left: 50px;
+}
+.box3 {
+    width:200px;
+    height: 200px;
+    background-color: #fea500;
+    margin-left: 50px;
+}
+.box4 {
+    width:200px;
+    height: 200px;
+    background-color: #fea500;
+    margin-left: 50px;
+}
