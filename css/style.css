@@ -12,25 +12,7 @@ h1 {
     margin-left: 50px;
 }
 
-.box1 {
-    width:200px;
-    height: 200px;
-    background-color: #fea500;
-    margin-left: 50px;
-}
-.box2 {
-    width:200px;
-    height: 200px;
-    background-color: #fea500;
-    margin-left: 50px;
-}
-.box3 {
-    width:200px;
-    height: 200px;
-    background-color: #fea500;
-    margin-left: 50px;
-}
-.box4 {
+.box {
     width:200px;
     height: 200px;
     background-color: #fea500;
